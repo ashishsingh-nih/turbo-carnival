@@ -1,3 +1,3 @@
-This is an about of this repo.<br>
+Hello from turbo-carnival!
 Name: turbo-carnival <br>
 Author: Ashish singh

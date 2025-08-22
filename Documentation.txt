@@ -1,0 +1,11 @@
+Documentation of Git & Github.
+
+To move in directories: cd file.name
+To check status: git status
+To add particular change: git add 
+To add all changes: git add .
+To commit change: git commit -m "Message for commit."
+To push change on Github: git push origin main
+To pull change from Github: git pull origin main --rebase
+To clear up teminal: clear
+
